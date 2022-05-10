@@ -4,4 +4,4 @@ description
 
 # Another desc
 
-test
+switch
